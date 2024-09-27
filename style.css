@@ -17,7 +17,7 @@ body{
     width: 100%;
     height: 100%;
 }
-header,ul,h3{
+header,nav,h3{
     display: inline;
 }
 nav{
@@ -47,6 +47,9 @@ nav a{
 a:hover{
     color: red;
     text-decoration: underline;
+    height: 20px;
+    width: 50px;
+    border: 5px solid;
 }
 
 .nav_bar{
