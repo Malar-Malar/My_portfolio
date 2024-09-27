@@ -137,11 +137,6 @@ img{
     left: 20%;
     bottom: 500px;
 }
-/* .skills1{
-    position: absolute;
-    right: 1200px;
-    top: 130px; */
-
 .skills1{
     display: flex;
     justify-content: space-around;
