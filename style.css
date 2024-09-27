@@ -47,9 +47,6 @@ nav a{
 a:hover{
     color: red;
     text-decoration: underline;
-    height: 20px;
-    width: 50px;
-    border: 5px solid;
 }
 
 .nav_bar{
